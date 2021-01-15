@@ -10,7 +10,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #545E6C;
+  color: #545e6c;
   background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #f47c03;
+  color: #3d5c87;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #a85502;
+  color: #263954;
 }
 a:focus {
   text-decoration: none;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #FDA246;
+  background: #5b80b5;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #FDA246;
+  background: #5b80b5;
   position: absolute;
   right: 0;
   width: 240px;
@@ -162,7 +162,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #f47c03;
+  color: #3d5c87;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -244,7 +244,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #fec892 !important;
+  background: #91aafc !important;
 }
 .footer {
   padding: 30px;
@@ -259,8 +259,8 @@ p {
   color: #fb866a;
 }
 .btn-translate {
-  background-color: #a2662a;
-  border-color: #d5995d;
+  background-color: #3d5c87;
+  border-color: #6686b3;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
